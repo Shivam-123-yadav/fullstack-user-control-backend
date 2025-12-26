@@ -7,6 +7,7 @@ A production-ready full-stack web application built using React and Django, impl
 ![Uploading image.png…]()
 
 
+
 🌟 Key Highlights
 
 ✅ Secure JWT Authentication
@@ -157,5 +158,6 @@ API rate limiting
 
 Shivam Yadav
 🔗 GitHub: https://github.com/Shivam-123-yadav
+
 
 
