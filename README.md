@@ -1,9 +1,6 @@
 ##🚀 Fullstack User Control System (RBAC)
 
-
-
-![Uploading image.png…]()
-
+<img width="1912" height="957" alt="image" src="https://github.com/user-attachments/assets/640b301f-6f50-4dbe-95b7-31ab543661c4" />
 
 A production-ready full-stack web application built using React and Django, implementing Role-Based Access Control (RBAC) with secure authentication, protected routes, and an admin dashboard.
 
@@ -20,6 +17,10 @@ A production-ready full-stack web application built using React and Django, impl
 ✅ Admin Panel for User Management
 ✅ Production-Ready Structure
 
+
+<img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/590c5e4c-e8c3-4115-9d78-8c17eaa66d0f" />
+
+
 🧩 Features Overview
 🔐 Authentication & Security
 
@@ -30,6 +31,10 @@ Role-based route protection
 Secure password handling
 
 Token-based API access
+
+
+<img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/6b5e4ca9-292f-475d-9c10-7f0f98a96e7d" />
+
 
 👥 Role Management
 Role	Permissions
@@ -161,6 +166,7 @@ API rate limiting
 
 Shivam Yadav
 🔗 GitHub: https://github.com/Shivam-123-yadav
+
 
 
 
